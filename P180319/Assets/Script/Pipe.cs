@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Pipe : MonoBehaviour ,IGameobject{
 
-	// Use this for initialization
+	// Use this for 
 	void Start () {
 		
 	}
